@@ -1,5 +1,11 @@
 # DeployPRO `assets`
 
+<br />
+
+---
+
+![deploypro-wes-repo-updated](https://github.com/app-generator/assets/assets/51070104/12517c63-b809-4615-b8b1-b2d45f6fa6d9)
+
 <br /> 
 
 ---
