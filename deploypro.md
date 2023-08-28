@@ -4,7 +4,13 @@
 
 ---
 
-![deploypro-wes-repo-updated](https://github.com/app-generator/assets/assets/51070104/12517c63-b809-4615-b8b1-b2d45f6fa6d9)
+![deploypro-aws-repo-cicd-action-executed](https://github.com/app-generator/assets/assets/51070104/c63215b1-a476-4377-81f6-78da3e17de74)
+
+<br />
+
+---
+
+![deploypro-aws-repo-updated](https://github.com/app-generator/assets/assets/51070104/12517c63-b809-4615-b8b1-b2d45f6fa6d9)
 
 <br /> 
 
