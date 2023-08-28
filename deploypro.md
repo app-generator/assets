@@ -4,6 +4,12 @@
 
 ---
 
+![deploypro-do-connection-active](https://github.com/app-generator/assets/assets/51070104/ba19e93a-ff28-4901-b20b-e887eae2b0b2)
+
+<br />
+
+---
+
 ![deploypro-azure-connection-active](https://github.com/app-generator/assets/assets/51070104/aec105ec-29ff-4359-9ce9-3d3448d7b5c7)
 
 <br />
