@@ -4,6 +4,12 @@
 
 ---
 
+![deploypro-azure-connection-active](https://github.com/app-generator/assets/assets/51070104/aec105ec-29ff-4359-9ce9-3d3448d7b5c7)
+
+<br />
+
+---
+
 ![deploypro-aws-repo-cicd-action-executed](https://github.com/app-generator/assets/assets/51070104/c63215b1-a476-4377-81f6-78da3e17de74)
 
 <br />
@@ -16,7 +22,7 @@
 
 ---
 
-![image](https://github.com/app-generator/assets/assets/51070104/60fb9597-ecc4-417e-9879-1d2998dd0f93)
+![deploypro-aws-connection-active](https://github.com/app-generator/assets/assets/51070104/60fb9597-ecc4-417e-9879-1d2998dd0f93)
 
 <br />
 
