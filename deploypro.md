@@ -4,6 +4,10 @@
 
 ---
 
+![deploypro-aws-connection-active](https://github.com/app-generator/assets/assets/51070104/6c32142f-0d88-4d52-8680-1bcc725c376b)
+
+<br />
+
 ![deploypro-azure-create-app-completed](https://github.com/admin-dashboards/assets/assets/51854817/bf8c338c-69e6-411e-88d5-3f0002912ae5)
 
 <br /> 
