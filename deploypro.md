@@ -4,6 +4,12 @@
 
 ---
 
+![deploypro-aws-server-created](https://github.com/app-generator/assets/assets/51070104/a464745e-d89e-4cb5-b6c8-7f6e6dffc406)
+
+<br />
+
+---
+
 ![deploypro-do-connection-active](https://github.com/app-generator/assets/assets/51070104/ba19e93a-ff28-4901-b20b-e887eae2b0b2)
 
 <br />
