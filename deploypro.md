@@ -2,6 +2,16 @@
 
 <br />
 
+![image](https://github.com/app-generator/assets/assets/51070104/cf320efc-4b60-4b6c-afdd-b6b28a718e6c)
+
+<br />
+
+---
+
+![image](https://github.com/app-generator/assets/assets/51070104/b220dfef-8e3d-4c55-804c-188e19835b4f)
+
+<br />
+
 ---
 
 ![deploypro-aws-server-created](https://github.com/app-generator/assets/assets/51070104/a464745e-d89e-4cb5-b6c8-7f6e6dffc406)
