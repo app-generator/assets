@@ -1,5 +1,20 @@
 # Common Assets
 
+![image](https://github.com/app-generator/assets/assets/51070104/c41e65a5-2ab9-4b54-8cbc-350ab6da746c)
+
+![image](https://github.com/app-generator/assets/assets/51070104/3363f39f-28e6-46aa-a982-6a4d85292b01)
+
+![image](https://github.com/app-generator/assets/assets/51070104/d4db683b-e766-484b-a275-7cf6bca8c719)
+
+![image](https://github.com/app-generator/assets/assets/51070104/38550e5e-67c0-4f96-9347-7bdfd3056d33)
+
+![image](https://github.com/app-generator/assets/assets/51070104/9d7ec4fc-e41b-4815-bb6a-c483acbb5528)
+
+![image](https://github.com/app-generator/assets/assets/51070104/c09311f8-4ec6-4a22-a527-5f7e1f8d769e)
+
+![image](https://github.com/app-generator/assets/assets/51070104/0274f12d-ba96-43cc-9e0d-a9eaf791e7c0)
+
+![image](https://github.com/app-generator/assets/assets/51070104/a87dbf5e-83a8-4daf-9b10-8417b58c60e1)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/567987be-5875-4baa-bf9f-4b69be4f0a51)
 
