@@ -1,5 +1,17 @@
 # Common Assets
 
+![cover-11ty](https://github.com/app-generator/assets/assets/51070104/cca28df3-bc2a-4ea8-866c-7ccf8c00fea5)
+
+![cover-nginx](https://github.com/app-generator/assets/assets/51070104/384efe09-43c9-4d5e-9cc2-c9f872330e93)
+
+![cover-python](https://github.com/app-generator/assets/assets/51070104/f4b5efaf-5313-4260-ba18-44645a058c2d)
+
+![image](https://github.com/app-generator/assets/assets/51070104/18f6d8f5-0dae-4b41-ab8f-8ffb04651c32)
+
+![cover-bulma-css](https://github.com/app-generator/assets/assets/51070104/a075ae1c-989f-4b59-a68b-fd06178b2fad)
+
+![cover-apache](https://github.com/app-generator/assets/assets/51070104/16ca9ced-0cc0-4228-9d36-bc424c87b9aa)
+
 ![cover-gumroad](https://github.com/app-generator/assets/assets/51070104/c1ca58ad-044e-4250-a533-f896cc367ce0)
 
 ![cover-paypal](https://github.com/app-generator/assets/assets/51070104/d2b4f9a7-2380-4bdb-844e-3144f5c68919)
