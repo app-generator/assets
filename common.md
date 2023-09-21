@@ -1,5 +1,8 @@
 # Common Assets
 
+
+![image](https://github.com/app-generator/assets/assets/51070104/ba603011-cc78-4f77-b536-ac813fdf2b0c)
+
 ![image](https://github.com/app-generator/assets/assets/51070104/19fac08c-21cf-4119-90d0-8e45aa797425)
 
 ![cover-dashboard-volt](https://github.com/app-generator/assets/assets/51070104/1f21456d-b0b5-4d4b-9ee5-99ccb6c22188)
