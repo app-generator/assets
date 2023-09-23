@@ -1,6 +1,16 @@
 # Common Assets
 
 
+![cover-azure](https://github.com/app-generator/assets/assets/51070104/32101703-42b1-4ee0-ab75-33ddd7e869ad)
+
+![cover-heroku](https://github.com/app-generator/assets/assets/51070104/cbc1203c-56cc-4f49-a346-9ecd9204b33c)
+
+![cover-render](https://github.com/app-generator/assets/assets/51070104/d58ae5df-d09c-4921-84b1-d2e2f1d8ec28)
+
+![cover-gcp](https://github.com/app-generator/assets/assets/51070104/479ed504-780b-4ada-b48f-61935f2d0dfe)
+
+![cover-digital-ocean](https://github.com/app-generator/assets/assets/51070104/a797eea8-8b93-426b-a83e-a23379276072)
+
 ![image](https://github.com/app-generator/assets/assets/51070104/ba603011-cc78-4f77-b536-ac813fdf2b0c)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/19fac08c-21cf-4119-90d0-8e45aa797425)
