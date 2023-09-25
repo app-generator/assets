@@ -1,5 +1,19 @@
 # Common Assets
 
+![image](https://github.com/app-generator/assets/assets/51070104/99cc95ed-dad5-45bb-bbaf-8bf6cd9bd732)
+
+![image](https://github.com/app-generator/assets/assets/51070104/aa10691d-b189-4571-b24c-2af655413127)
+
+![cover-nextjs](https://github.com/app-generator/assets/assets/51070104/7d508468-319c-4576-90d3-45e6a54a16d4)
+
+![cover-php](https://github.com/app-generator/assets/assets/51070104/0d36a57c-aa00-4e0d-a229-e163027b3916)
+
+![cover-laravel](https://github.com/app-generator/assets/assets/51070104/a3cac094-f9ae-4690-982c-b9f904becc0e)
+
+![image](https://github.com/app-generator/assets/assets/51070104/32f8944c-ed0e-4a77-a8b6-725d6dc4b3cb)
+
+![image](https://github.com/app-generator/assets/assets/51070104/5d2206b4-dd44-43b5-acbe-25d83046b360)
+
 ![image](https://github.com/app-generator/assets/assets/51070104/fe776357-000e-4200-8f3c-40733abf5a9f)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/ceb7c571-48aa-448c-919b-8024679c27c3)
