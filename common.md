@@ -1,5 +1,9 @@
 # Common Assets
 
+![cover-modernize](https://github.com/app-generator/assets/assets/51070104/0f223ca7-be26-472d-8af1-6c5e643f4ed6)
+
+![image](https://github.com/app-generator/assets/assets/51070104/31eaa6ce-9fb1-4bec-ba6d-54011025e06e)
+
 ![image](https://github.com/app-generator/assets/assets/51070104/99cc95ed-dad5-45bb-bbaf-8bf6cd9bd732)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/aa10691d-b189-4571-b24c-2af655413127)
