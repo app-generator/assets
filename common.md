@@ -1,5 +1,9 @@
 # Common Assets
 
+![cover-nuxt](https://github.com/app-generator/assets/assets/51070104/fd8cd2f2-25d6-4e6a-877a-b8e26053db3c)
+
+![cover-mui](https://github.com/app-generator/assets/assets/51070104/295433bb-b148-4de1-921f-2162ced735c4)
+
 ![cover-modernize](https://github.com/app-generator/assets/assets/51070104/0f223ca7-be26-472d-8af1-6c5e643f4ed6)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/31eaa6ce-9fb1-4bec-ba6d-54011025e06e)
