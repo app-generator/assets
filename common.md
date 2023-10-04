@@ -1,5 +1,9 @@
 # Common Assets
 
+![rocket-tailwind-intro](https://github.com/app-generator/assets/assets/51070104/6f4a8fd7-7cce-472a-9566-9519db338c7d)
+
+![cover-flowbite-dashboard](https://github.com/app-generator/assets/assets/51070104/b16f1dc9-d9e2-452a-bdf4-2eae958a7d78)
+
 ![cover-nuxt](https://github.com/app-generator/assets/assets/51070104/fd8cd2f2-25d6-4e6a-877a-b8e26053db3c)
 
 ![cover-mui](https://github.com/app-generator/assets/assets/51070104/295433bb-b148-4de1-921f-2162ced735c4)
