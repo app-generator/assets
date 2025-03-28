@@ -1,5 +1,8 @@
 ## Dummy
 
+![dynamic-tables-cover](https://github.com/user-attachments/assets/6c241f56-3e99-4b6d-a1fe-05fb595c1c99)
+
+
 ![top](https://github.com/user-attachments/assets/56dd2952-6681-4ccb-b381-4ac2b257dd2a)
 
 ![image](https://github.com/app-generator/assets/assets/51070104/1a45c778-b510-4b45-bddf-afce95846c1b)
