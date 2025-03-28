@@ -1,5 +1,9 @@
 ## Dummy
 
+![dynamic-tables-popup](https://github.com/user-attachments/assets/67ebc51c-5ea4-4536-8352-97cd84d1f0ae)
+
+![dynamic-tables-cover](https://github.com/user-attachments/assets/ba036d37-8bd7-43ee-9506-25bf7b1c5505)
+
 ![dynamic-tables-cover](https://github.com/user-attachments/assets/6c241f56-3e99-4b6d-a1fe-05fb595c1c99)
 
 
